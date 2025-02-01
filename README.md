@@ -2,12 +2,12 @@
 
 # Setup Virtual Enviroment
 
-## Make sure you have python install
+# Make sure you have python install
 Check with
-## Linux
+### Linux
 python3 --version
 
-## Windows
+### Windows
 python --version
 
 ## Linux
