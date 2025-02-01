@@ -1,18 +1,17 @@
 # image-compression-with-SVD
 
-# Setup Virtual Enviroment
+## Setup Virtual Enviroment
+### Linux
+python3 -m venv venv
+source venv/bin/activate
 
-# Make sure you have python install
+## Make sure you have python install
 Check with
 ### Linux
 python3 --version
 
 ### Windows
 python --version
-
-## Linux
-python3 -m venv venv
-source venv/bin/activate
 
 # Install requirements
 pip install -r requirements.txt
