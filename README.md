@@ -2,16 +2,16 @@
 
 ## Setup Virtual Enviroment
 ### Linux
-python3 -m venv venv
-source venv/bin/activate
++ python3 -m venv venv
++ source venv/bin/activate
 
 ## Make sure you have python installed
 Check with
 ### Linux
-python3 --version
++ python3 --version
 
 ### Windows
-python --version
++ python --version
 
 # Install requirements
 pip install -r requirements.txt
