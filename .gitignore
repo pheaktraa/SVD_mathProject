@@ -1,3 +1,5 @@
 venv/
 output_gray/
 output_color/
+debian-wsl-venv/
+remove_images.sh

@@ -1,3 +1,4 @@
 matplot
 numpy
 opencv-python
+pillow
